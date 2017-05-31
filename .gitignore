@@ -1,0 +1,8 @@
+/.idea
+/assets/*
+/protected/config/database.php
+/protected/runtime/*
+/protected/tests/logs
+/protected/tests/report/*
+/vendor
+composer.lock

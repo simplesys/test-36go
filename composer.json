@@ -1,0 +1,21 @@
+{
+  "name": "36go/registration",
+  "type": "library",
+  "description": "Registration form",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chuvashin Viacheslav",
+      "email": "chuvashin.v@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "yiisoft/yii": "1.1.18"
+  },
+  "require-dev": {
+    "codeception/codeception": "@stable",
+    "squizlabs/php_codesniffer": "@stable"
+  }
+}
